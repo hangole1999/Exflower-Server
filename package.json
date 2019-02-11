@@ -4,7 +4,7 @@
   "description": "Exflower Game Backend Project",
   "main": "index.js",
   "scripts": {
-    "app": "echo \"Exflower started\" && node index.js",
+    "app": "echo \"Start Exflower\" && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

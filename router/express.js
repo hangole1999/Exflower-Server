@@ -1,10 +1,10 @@
 
 module.exports = function (app) {
 
-	app.get('/', function (req, res) {
-		res.render('index', {
-            title: "Home"
-        });
+    var path = require('path');
+
+	app.get('/', function (req, res, next) {
+        res.sendFile(path.join(__dirname, '../public', 'index.html'))
     });
     
 };

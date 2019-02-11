@@ -8,10 +8,7 @@ const io = socketio(server);
 const router = require('./router')(app, io);
 const PORT = 3000;
 
-// app.set('views', __dirname + '/views');
-// app.set('view engine', 'ejs');
 app.use(express.static('public'));
-// app.engine('html', require('ejs').renderFile);
 
 
 
