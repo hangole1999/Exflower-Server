@@ -1,0 +1,30 @@
+{
+  "name": "exflower-backend",
+  "version": "1.0.0",
+  "description": "Exflower Game Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "app": "echo \"Exflower started\" && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hangole@bitbucket.org/hangole_/exflower-backend.git"
+  },
+  "keywords": [
+    "express",
+    "socketio",
+    "game",
+    "nodejs",
+    "exflower",
+    "backend",
+    "server"
+  ],
+  "author": "Hangole",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/hangole_/exflower-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
