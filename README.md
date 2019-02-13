@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# run server
+# run server application
 npm run app
 
 # run all tests

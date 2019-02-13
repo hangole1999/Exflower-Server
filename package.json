@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://hangole@bitbucket.org/hangole_/exflower-backend.git"
+    "url": "git+https://hangole1999@github.com/hangole1999/Exflower-Server.git"
   },
   "keywords": [
     "express",
@@ -22,7 +22,7 @@
   ],
   "author": "Hangole",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/hangole_/exflower-backend#readme",
+  "homepage": "https://github.com/hangole1999/Exflower-Server#readme",
   "dependencies": {
     "express": "^4.16.4",
     "socket.io": "^2.2.0"
