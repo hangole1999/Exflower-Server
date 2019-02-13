@@ -1,7 +1,7 @@
 {
-  "name": "exflower-backend",
+  "name": "exflower-server",
   "version": "1.0.0",
-  "description": "Exflower Game Backend Project",
+  "description": "Exflower Game Server Project",
   "main": "index.js",
   "scripts": {
     "app": "echo \"Start Exflower\" && node index.js",
